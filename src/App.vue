@@ -193,7 +193,7 @@ button {
 
 .product-card a {
   text-decoration: none;
-  color: #333;
+  color: white;
 }
 
 .product-card h2 {
